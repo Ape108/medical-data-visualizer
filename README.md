@@ -13,13 +13,13 @@ The Medical Data Visualizer analyzes a dataset of medical examination records an
 
 ### Categorical Plot
 
-![Categorical Plot](examples/Figure_1.png)
+![Categorical Plot](catplot.png)
 
 - This plot shows the counts of each value (0 or 1) for variables like cholesterol, glucose, smoking, alcohol intake, physical activity, and overweight status, separated by cardiovascular disease status (`cardio`).
 
 ### Heatmap
 
-![Heatmap](examples/Figure_2.png)
+![Heatmap](heatmap.png)
 
 - The heatmap visualizes the correlation coefficients between all pairs of variables in the dataset, with the upper triangle masked for clarity.
 
